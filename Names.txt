@@ -1,0 +1,11 @@
+1. Mariam Yahia
+2. Marwan Seif
+3. Muhammad Mabrouk 
+4. Muhammad Mohsen
+
+Notes: 
+- Tested with Internet Explorer 11, Opera 26 ( with enable-file-cookies flag enabled )
+- .remove () function doesn't work in Internet Explorer, .parentNode.removeChild () was used.
+- In FireFox, the an event has to be passed to the event function in order to be able to call preventDefault () function through it.
+
+- Thank you, sir for such a neat project :) 
